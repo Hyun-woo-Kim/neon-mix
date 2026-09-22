@@ -1,0 +1,12 @@
+bin/
+obj/
+실행 파일/
+실행 파일 v2/
+dist/
+*.pdb
+*-test.txt
+*테스트 결과.txt
+실제 실행 화면.png
+콘솔 실행 화면.png
+*.zip
+error.log
