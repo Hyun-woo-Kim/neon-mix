@@ -7,7 +7,7 @@ Cakewalk의 믹싱 콘솔에서 아이디어를 얻어, 각 앱을 가로로 나
 
 ## 다운로드 및 실행
 
-1. [최신 릴리스](https://github.com/Hyun-woo-Kim/neon-mix/releases/latest)에서 `NeonMix-Console-v0.2.0-Windows.zip`을 받습니다.
+1. [최신 릴리스](https://github.com/Hyun-woo-Kim/neon-mix/releases/tag/v0.2.0)에서 `NeonMix-Console-v0.2.0-Windows.zip`을 받습니다.
 2. 압축을 풀고 `NeonMix.exe`를 실행합니다. 폴더 안의 파일을 함께 보관하세요.
 3. 실행에 필요한 **.NET 10 Desktop Runtime**이 없으면 [Microsoft 다운로드 페이지](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)에서 Windows용 Desktop Runtime을 설치합니다.
 
